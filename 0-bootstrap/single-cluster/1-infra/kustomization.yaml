@@ -33,7 +33,7 @@ resources:
 - argocd/serviceaccounts-b2bi-prod.yaml
 #- argocd/serviceaccounts-b2bi-nonprod.yaml
 #- argocd/serviceaccounts-pem.yaml
-#- argocd/sfg-b2bi-clusterwide.yaml
+- argocd/sfg-b2bi-clusterwide.yaml
 #- argocd/pem-b2bi-clusterwide.yaml
 #- argocd/scc-wkc-iis.yaml
 #- argocd/norootsquash.yaml
